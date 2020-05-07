@@ -1,0 +1,115 @@
+[
+  {
+    _id: 5eb2234cfcda5e3304c3ab5e,
+    NAME: 'Java',
+    DESCRIPTION: 'Platform Independent Programming Language',
+    AUTHOR: 'James Gosling',
+    PRICE: 2000,
+    RATING: 3,
+    PUBLISHEDYEAR: 2020,
+    PUBLISHEDDATE: 2020-04-24T18:30:00.000Z,
+    CATEGORY: 'Full Stack Developer'
+  },
+  {
+    _id: 5eb22444fcda5e3304c3ab5f,
+    NAME: 'React UP and Running',
+    DESCRIPTION: 'Building Web Applications',
+    AUTHOR: 'Azat Marda',
+    PRICE: 2500,
+    RATING: 4,
+    PUBLISHEDYEAR: 2020,
+    PUBLISHEDDATE: 2020-03-16T18:30:00.000Z,
+    CATEGORY: 'ReactJS'
+  },
+  {
+    _id: 5eb02ffa6d6280050c5bd530,
+    NAME: 'Modern JavaScript',
+    DESCRIPTION: ' A Modern JavaScript',
+    AUTHOR: 'Robin Wieruch',
+    PRICE: 1400,
+    RATING: 3,
+    PUBLISHEDDATE: 2019-12-07T18:30:00.000Z,
+    CATEGORY: 'HTML, CSS, & RWD'
+  },
+  {
+    _id: 5eae43a944d9a52facdcf934,
+    NAME: 'Python API Development Fundamentals',
+    DESCRIPTION: 'Develop a full stack web application with Python and Flask',
+    AUTHOR: 'Jack Chan',
+    PRICE: 1200,
+    RATING: 4,
+    IMAGE: 'F:\\mini project images\\python.jpg',
+    PUBLISHEDDATE: 2019-11-10T18:30:00.000Z,
+    CATEGORY: 'Full Stack Developer'
+  },
+  {
+    _id: 5eae4fca44d9a52facdcf935,
+    NAME: 'Professional JavaScript',
+    DESCRIPTION: ' Fast-track your web development career using the powerful features of advanced JavaScript',
+    AUTHOR: 'Hugo Di Francesco',
+    PRICE: 1500,
+    RATING: 5,
+    IMAGE: 'F:\\mini project images\\Fasttrack.jpg',
+    PUBLISHEDDATE: 2019-10-29T18:30:00.000Z,
+    CATEGORY: 'ReactJS'
+  },
+  {
+    _id: 5eb22506fcda5e3304c3ab60,
+    NAME: 'MongoDB',
+    DESCRIPTION: 'NOSQL Form',
+    AUTHOR: 'Alex Banks',
+    PRICE: 1400,
+    RATING: 4,
+    PUBLISHEDDATE: 2019-05-23T18:30:00.000Z,
+    CATEGORY: 'HTML, CSS, & RWD'
+  },
+  {
+    _id: 5eae644944d9a52facdcf938,
+    NAME: 'Learn React ',
+    DESCRIPTION: 'Functional Web Development with React and Redux',
+    AUTHOR: 'Alex Banks',
+    PRICE: 1400,
+    RATING: 3,
+    IMAGE: 'F:\\mini project images\\react.jpg',
+    PUBLISHEDDATE: 2019-05-01T18:30:00.000Z,
+    CATEGORY: 'NodeJS'
+  },
+  {
+    _id: 5eb030a26d6280050c5bd531,
+    NAME: 'MongoDB',
+    DESCRIPTION: 'NOSQL Form',
+    AUTHOR: 'Alex Banks',
+    PRICE: 1800,
+    PUBLISHEDDATE: 2018-11-23T18:30:00.000Z,
+    CATEGORY: 'Mongo DB'
+  },
+  {
+    _id: 5eae660544d9a52facdcf939,
+    NAME: 'The Road to React',
+    DESCRIPTION: 'The Road to React takes the new developer by building a React component  ',
+    AUTHOR: 'Robin Wieruch',
+    PRICE: 1800,
+    RATING: 4,
+    IMAGE: 'F:\\mini project images\\road.jpg',
+    PUBLISHEDDATE: 2018-05-06T18:30:00.000Z,
+    CATEGORY: 'Modern JavaScript'
+  },
+  {
+    _id: 5eb031926d6280050c5bd532,
+    NAME: 'React Quickly',
+    DESCRIPTION: 'Learning Reack Quickly',
+    AUTHOR: 'Robin Wieruch',
+    PRICE: 1700,
+    PUBLISHEDDATE: 2017-04-07T18:30:00.000Z,
+    CATEGORY: 'NodeJS'
+  },
+  {
+    _id: 5eb032d26d6280050c5bd533,
+    NAME: 'Python',
+    DESCRIPTION: 'Learning Python',
+    AUTHOR: 'Jack Chan',
+    PRICE: 1400,
+    PUBLISHEDDATE: 2014-05-24T18:30:00.000Z,
+    CATEGORY: 'Modern JavaScript'
+  }
+]
